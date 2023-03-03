@@ -1,0 +1,57 @@
+* {
+  border: 2px;
+  background-color: #bad2b8;
+}
+
+.head {
+  padding: 3px;
+  text-align: center;
+  color: black;
+  font-family: "Times New Roman", Times, serif;
+  background-color: #5f8575;
+  font-size: 50px;
+  font-weight: 800;
+  text-decoration: none;
+}
+
+ul {
+  list-style-type: none;
+}
+
+li {
+  margin: 3px;
+}
+
+.rezepte {
+  color: black;
+  padding: 2px;
+  padding-left: 5px;
+  padding-right: 5px;
+  text-decoration: none;
+  background-color: beige;
+}
+
+/* Page 3: Recipes.html */
+
+.buttondiv {
+  background-color: #5f8575;
+  padding: 3px;
+  width: 215px;
+}
+
+.buttonlink {
+  padding: 0;
+  border: none;
+  background: none;
+}
+
+button {
+  background-color: #5f8575;
+  margin: 5px;
+}
+
+.P3I2 {
+  width: 200px;
+  height: auto;
+  margin: 3px;
+}
