@@ -33,16 +33,22 @@ li {
 
 /* Page 3: Recipes.html */
 
+.flexbox {
+  display: flex;
+}
+
 .buttondiv {
   background-color: #5f8575;
-  padding: 3px;
-  width: 215px;
+  padding: 4px;
+  margin: 5px;
+  display: flex 1;
 }
 
 .buttonlink {
   padding: 0;
   border: none;
   background: none;
+  display: flex 1;
 }
 
 button {
@@ -54,4 +60,5 @@ button {
   width: 200px;
   height: auto;
   margin: 3px;
+  display: flex 1;
 }
